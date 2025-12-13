@@ -20,7 +20,8 @@ Alongside my BI expertise, I am continuously strengthening my knowledge in cloud
 
 ### 🧱 Data Modeling & ETL
 - Relational and dimensional modeling (Star & Snowflake schemas)  
-- OLAP concepts, data integration and ETL pipelines  
+- OLAP concepts, data integration and ETL pipelines
+- Pentaho
 
 ### 🗄️ Databases & SQL
 - SQL Server, Oracle, PostgreSQL, MySQL, BigQuery  
@@ -40,7 +41,7 @@ Alongside my BI expertise, I am continuously strengthening my knowledge in cloud
 
 ## 📊 Featured Projects
 
-### 🔹 Accounting & Financial Analytics Dashboard  
+### 🔹 Accounting & Financial Dashboard  
 **Insurance Company – Bolivia**
 
 - Led the end-to-end development of a data visualization solution for the Accounting area of an insurance company in Bolivia.  
