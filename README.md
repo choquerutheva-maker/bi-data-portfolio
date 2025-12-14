@@ -1,5 +1,3 @@
-# BI-DataProjects
-
 ## 👋 About Me
 My professional journey has been deeply rooted in Business Intelligence and data analysis for over 12 years. As a Systems Engineer, I have built a strong foundation in advanced SQL, working extensively with Oracle and SQL Server to design optimized queries, stored procedures and ETL processes for data cleansing, integration and reliable reporting.
 
