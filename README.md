@@ -47,4 +47,7 @@ Alongside my BI expertise, I am continuously strengthening my knowledge in cloud
 - Designed and implemented ETL processes using SQL, following best practices and data validation rules to ensure accuracy, consistency and reliability of financial data.  
 - Built interactive and user-friendly dashboards in Power BI, enabling stakeholders to track performance, identify deviations and gain actionable insights.  
 
-> 🔒 *Due to confidentiality agreements, dashboards and data are not publicly available.*
+🔗 **Project details and technical documentation:**  
+👉 [Accounting & Financial Analytics Dashboard](https://github.com/choquerutheva-maker/Accounting-Financial-Analytics-Dashboard)
+
+🔒 *Due to confidentiality agreements, all dashboards and data shown in the repository have been anonymized and blurred.*
